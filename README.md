@@ -18,6 +18,8 @@
 </p>
 <hr>
 
+![Screenshot of Youtube-GPT](ytdoubtsolver.png)
+
 ##  Quick Links
 
 > - [ Overview](#-overview)
